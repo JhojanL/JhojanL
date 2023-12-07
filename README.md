@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhoja Lerma</h1>
+<h1 align="center">Hi 👋, I'm Jhojan Lerma</h1>
 <h3 align="center">I am dedicated, responsible, and committed to the projects I participate in, with skills in creative thinking, self-learning, teamwork, adaptability, leadership, and conflict resolution. In addition, I am proficient in Microsoft Office programs.</h3>
 
 - 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python**
