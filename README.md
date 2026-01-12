@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhojan Lerma</h1>
-<h3 align="center">I am dedicated, responsible, and committed to the projects I participate in, with skills in creative thinking, self-learning, teamwork, adaptability, leadership, and conflict resolution. In addition, I am proficient in Microsoft Office programs.</h3>
+<h3 align="center">Motivated professional with a background in Electronics and Industrial Automation, currently advancing in Computer Science at Cibertec. I possess a versatile Full Stack skillset, including proficiency in Java, .NET, Python, and JavaScript, alongside SQL/NoSQL database management and UX/UI design principles. A collaborative and results-oriented problem solver, I am eager to contribute to innovative projects as a Full Stack Web Developer, Software Developer, or UX/UI Designer.</h3>
 
 - 📫 How to reach me **jhojan.lerma.work@gmail.com**
 
