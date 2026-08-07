@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📫 How to reach me: **jhojan.lerma.work@gmail.com**</p>
+- 📫 How to reach me **jhojan.lerma.work@gmail.com**
 
 ###
 
